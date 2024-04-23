@@ -1,0 +1,61 @@
+ {
+  /*
+
+    Dark grey: #0B0C10
+    Soft Dark grey: #1F2833
+    Grey: #C5C6C7
+    Light Blue: #66FCF1
+    Blueish: $45A29E   
+
+*/
+}
+
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.homepage-container__content {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage-container__content-text {
+  margin-top: 2rem;
+  margin-bottom: 1;
+}
+
+.homepage-container__content h2 {
+  text-transform: uppercase;
+  margin-left: 2rem;
+}
+
+.homepage-container__button {
+  margin-top: 6rem;
+}
+
+.button-homepage {
+  height: 175px;
+  width: 175px;
+  border: none;
+  border-radius: 100px;
+  background-color: #1f2833;
+  color: #c5c6c7;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-shadow: 0 0px 20px 0 #66fcf1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.button-homepage:hover {
+  background-color: #45a29e;
+  box-shadow: 0 0px 30px 0 #66fcf1;
+}

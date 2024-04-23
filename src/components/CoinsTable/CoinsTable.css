@@ -1,0 +1,49 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.link-override {
+  color: inherit;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 16px 0;
+}
+
+form {
+  padding: 0;
+  text-align: center;
+  padding: 5rem 2rem 1rem 1rem; 
+}
+
+form input {
+  margin-left: 5px;
+  padding: 1rem 3rem;
+  border-radius: 50px;
+  border: 2px solid #66fcf1;
+}
+
+.MuiDataGrid-row {
+  background-color: #1f2833;
+  color: #c5c6c7
+}
+
+.MuiDataGrid-row svg {
+  font-size: small;
+}
+
+.MuiDataGrid-footerContainer {
+  background-color: #0b0c10;
+
+}
+
+.MuiToolbar-root {
+  color: #c5c6c7
+}

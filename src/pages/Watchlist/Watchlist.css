@@ -1,0 +1,35 @@
+.watchlist-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  margin-top: -5rem;
+  color: #c5c6c7;
+}
+
+.watchlist-container__title {
+  margin-bottom: 2rem;
+  margin-top: -10rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+table {
+  width: 90%;
+  background-color: #1f2833;
+  border: 1px SOLID #fff;
+  border-radius: 5px;
+}
+
+th,
+td {
+  padding: 1rem;
+}
+
+th {
+  background: #fff;
+  color: #1f2833;
+}
