@@ -12,8 +12,7 @@ It was built as part of a Frontend Code Challenge.
 2. [Tech Stack](#tech-stack)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [License](#license)
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 
 ## Features
@@ -78,15 +77,12 @@ Here's what you can do with Tech Wave Crypto Tracker:
 
 ![Watchlist page](image-5.png)
 
-## License
-
-This project is licensed under the [MIT License](nhecs).
 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
 Email: [brunorcunha3000@gmail.com](mailto:brunorcunha3000@gmail.com)
-GitHub: [[Your GitHub Profile](https://github.com/brcunha3000)]
+LinkedIn: [[brcunha3000](https://www.linkedin.com/in/brunorcunha3000/)]
 
 Thank you for using Tech Wave Crypto Tracker!
